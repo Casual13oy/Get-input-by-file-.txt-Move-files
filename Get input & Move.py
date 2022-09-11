@@ -1,4 +1,4 @@
-Get input by .txt & Move files
+# Get input by .txt & Move files
 import glob
 from itertools import count
 from re import X
